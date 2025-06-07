@@ -1,4 +1,3 @@
-:
 
 🎓 Unified College & Scholarship Tracker
 A web platform designed to help high school and undergraduate students streamline their college and scholarship application process. The platform enables users to manage deadlines, track submission statuses, upload documents, and receive reminders. An optional AI feature intelligently recommends relevant colleges and scholarships based on the user’s academic profile, preferences, and location.
