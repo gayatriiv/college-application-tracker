@@ -20,7 +20,7 @@ Securely upload and manage application documents such as:
 - View all deadlines in a calendar view
 - Automated reminders for approaching deadlines
 
-### 🤖 AI-Powered Suggestions (Optional)
+### 🤖 AI-Powered Suggestions 
 Recommends colleges and scholarships based on:
 - Grades
 - Location
