@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 
 ## 🌐 Demo
 
-🚧 **Coming Soon** — Stay tuned for a live demo link!
+🚧 https://college-application-tracker-liard.vercel.app/
