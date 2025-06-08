@@ -34,8 +34,7 @@ Recommends colleges and scholarships based on:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React
-- **Backend:** Node.js + Express
+- **Frontend:** React, Tailwind css
 - **Database:** MongoDB
 - **AI Engine:** OpenAI
 
